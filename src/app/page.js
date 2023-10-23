@@ -1,5 +1,4 @@
 import Header from "@/components/layout/header/header";
-import Image from "next/image";
 import NewWorlds from "./newWorld";
 import Trending from "./trending";
 import HappeningNow from "./happeningNow";
