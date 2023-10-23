@@ -34,7 +34,8 @@ export default class Trending extends Component {
             display: "block",
             position: "absolute",
             top: -16,
-            left: window.innerWidth < 800 ? "70%" : "88%",
+            left: "58rem",
+            // left: window?.innerWidth < 800 ? "70%" : "88%",
             color: "#000",
           }}
           onClick={onClick}
