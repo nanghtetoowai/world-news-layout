@@ -1,0 +1,26 @@
+.grid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+.logo {
+  color: red;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.routes {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.link {
+  font-size: 12px;
+  color: #34495E;
+  margin: 0px 10px;
+  text-transform: uppercase;
+}
