@@ -6,8 +6,6 @@ import { AiOutlineRight, AiOutlineLeft } from "react-icons/ai";
 
 export default class Trending extends Component {
   render() {
-    console.log("here", window.innerWidth);
-
     function SampleNextArrow(props) {
       const { className, style, onClick } = props;
       return (
